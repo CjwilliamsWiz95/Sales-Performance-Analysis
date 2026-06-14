@@ -30,3 +30,8 @@ This project presents an end-to-end sales performance analysis built using Power
 * Investigate cost structures in high-sales, low-profit regions
 * Leverage seasonal trends for targeted campaigns
 * Reassess underperforming products for optimization or discontinuation
+
+## Tools & Technologies
+* Power BI – Dashboard development & visualization
+* DAX – Measures and KPI calculations
+* Excel/CSV – Data source
