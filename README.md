@@ -10,3 +10,11 @@ This project presents an end-to-end sales performance analysis built using Power
 - Total Orders: 3,003
 
 - Growth Rate: 11.9%
+
+## Dashboard Features
+* Interactive slicers (Category, Region)
+* Sales breakdown by segment, category, and geography
+* Monthly and yearly trend analysis
+* Quarterly performance tracking
+* Top-performing and underperforming product identification
+* Payment mode distribution insights
