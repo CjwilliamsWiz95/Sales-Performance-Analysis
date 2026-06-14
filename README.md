@@ -18,3 +18,9 @@ This project presents an end-to-end sales performance analysis built using Power
 * Quarterly performance tracking
 * Top-performing and underperforming product identification
 * Payment mode distribution insights
+
+## Key Insights
+* Revenue is concentrated among a small group of high-performing products (Pareto principle)
+* Certain regions show high sales but lower profitability, indicating cost inefficiencies
+* Sales trends reveal strong end-of-year seasonality
+* Consumer segment drives volume, while other segments offer margin opportunities
