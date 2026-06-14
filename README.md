@@ -24,3 +24,9 @@ This project presents an end-to-end sales performance analysis built using Power
 * Certain regions show high sales but lower profitability, indicating cost inefficiencies
 * Sales trends reveal strong end-of-year seasonality
 * Consumer segment drives volume, while other segments offer margin opportunities
+
+## Business Recommendations
+* Focus marketing and inventory efforts on top-performing products
+* Investigate cost structures in high-sales, low-profit regions
+* Leverage seasonal trends for targeted campaigns
+* Reassess underperforming products for optimization or discontinuation
