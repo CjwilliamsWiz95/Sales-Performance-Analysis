@@ -40,4 +40,4 @@ This project presents an end-to-end sales performance analysis built using Power
 This dashboard serves as a decision-support tool for tracking performance, identifying growth opportunities, and improving operational efficiency through data-driven insights.
 
 ## Dashboard Preview
-()
+(https://github.com/CjwilliamsWiz95/Sales-Performance-Analysis/blob/main/Screenshot%202026-06-14%20122410.png)
