@@ -35,3 +35,6 @@ This project presents an end-to-end sales performance analysis built using Power
 * Power BI – Dashboard development & visualization
 * DAX – Measures and KPI calculations
 * Excel/CSV – Data source
+
+## Project Value
+This dashboard serves as a decision-support tool for tracking performance, identifying growth opportunities, and improving operational efficiency through data-driven insights.
